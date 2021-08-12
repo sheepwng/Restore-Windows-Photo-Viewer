@@ -7,6 +7,10 @@ Restore Windows Photo Viewer in Wondows 10 / 11
 
 **Windows Photo Viewer** (formerly Windows Picture and Fax Viewer) is an image viewer included with the Windows NT family of operating systems. It was first included with Windows XP and Windows Server 2003 under its former name. It was temporarily replaced with Windows Photo Gallery in Windows Vista, but has been reinstated in Windows 7. This program succeeds Imaging for Windows. In Windows 10, it is deprecated in favor of a Universal Windows Platform app called [Microsoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab), although it can be brought back with a registry tweak.
 
+## Screenshot
+
+![Screenshot](https://github.com/haithamaouati/Restore-Windows-Photo-Viewer/blob/main/screenshot.png?raw=true "Optional Title")
+
 ## Table of Contents
 
 - [Method](#method)
